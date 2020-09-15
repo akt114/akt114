@@ -31,5 +31,10 @@ I am a Full Stack Web Developer & Competitive Programming enthusiast with good k
 - 🔥  Top 50 out of 1000 applications of HackABit’18, largest Hackathon in East India
 - 🔥  Solved 800+ coding problems on Codeforces, SPOJ, Hackerrank etc 
 
+# Hello World!! 🤔
+- 💬 Ask me about anything and everything! 
+- 📫 How to reach me: message me on [Linkedin](https://www.linkedin.com/in/akt114/) or drop a mail [here](mailto:amittiwary710@gmail.com)
+- ⚡ Fun fact: I love making new connections, mentoring students and professionals with their doubts. I love playing cricket and listening music in my free time.
+- 💬 Ping Me about #DataStructures, #Algoritms, #OOPs, #C++, #JavaScript, #NodeJS, #MongoDB, #SQL and anything else you want to ask. I'll try my best to help you.😊❤   
 
 
