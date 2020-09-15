@@ -7,7 +7,7 @@ I'm Amit Tiwary, 4th year Undergraduate student  doing my major in Electronics a
 I am a Full Stack Web Developer & Competitive Programming enthusiast with good knowledge of Algorithms and Data Structures. Open Source development fascinates me a lot.
 
 
-## 🧐 About
+## 💥 About
 - 🤠  Full Stack Web Developer & Competitive Programmer
 - 🏄‍ Mentor @ GirlScript Jamshedpur
 - 😄  Microsoft Learn Student Ambassador , a Global Tech Program for tech enthusiasts.
@@ -15,7 +15,7 @@ I am a Full Stack Web Developer & Competitive Programming enthusiast with good k
 - 🌱 Actively contributed in GSSoc'20
 - 👯 And Many more...
 
-## 🧐 Achievements
+## 💥 Achievements
 - 🤠  Secured a Global Rank of 3273 out of 32699 participants in Qualification Round of Facebook HackerCup 2020
 - 🏄‍ Rated 5 star for Problem Solving on Hackerrank, an Online Coding Platform.
 - 😄  Selected for START Hack’20 Finals at University of St. Gallen, Switzerland
