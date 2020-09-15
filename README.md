@@ -28,7 +28,7 @@ I am a Full Stack Web Developer & Competitive Programming enthusiast with good k
 - 😄  Selected for START Hack’20 Finals at University of St. Gallen, Switzerland
 - 🔭  Best Project in the Completeness Category ’ZendIT’ in CodeAsylums Hackathon
 - 🌱  Top 50 out of 1000 applications of HackABit’18, largest Hackathon in East India
-- 👯  Solved 800+ coding problems on Codeforces, SPOJ, Hackerrank etc ✔
+- 👯  Solved 800+ coding problems on Codeforces, SPOJ, Hackerrank etc 
 
 
 
