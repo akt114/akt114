@@ -11,6 +11,7 @@ I am a Full Stack Web Developer & Competitive Programming enthusiast with good k
 ## 💥 About
 - 🤠  Full Stack Web Developer & Competitive Programmer
 - 🏄‍ Mentor @ GirlScript Jamshedpur
+- 👯  Postman Student Expert
 - 😄  Microsoft Learn Student Ambassador , a Global Tech Program for tech enthusiasts.
 - 🔭  Former Teaching Assistant Intern @ CodeAsylums
 - 🌱 Actively contributed in GSSoc'20
