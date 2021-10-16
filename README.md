@@ -21,7 +21,7 @@ I am a Full Stack Web Developer & Competitive Programming enthusiast with good k
 ## 💥 Technical Skills
 - ✔  Data Structures & Algoritms
 - ✔  Object Oriented Programming
-- ✔  Languages :- C, C++, Javascript
+- ✔  Languages :- Java, C++, Javascript
 - ✔ Frameworks :- ReactJS, NodeJS , ExpressJS
 - ✔  Databases :- MongoDb , SQL
 - ✔  Tools :- Git , Postman
