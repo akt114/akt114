@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:amittiwary710@gmail.com)](mailto:amittiwary710@gmail.com)
 ---
 ## Hi there 👋,           
-I'm Amit Tiwary, 4th year Undergraduate student 👨‍🎓 doing my major in Electronics and Communication Engineering 📡 from Birla Institute of Technology, Mesra. 🏫 
+I'm Amit Tiwary, currently working as a Software Development Engineer @ Flipkart 👨‍🎓 I have completed my B.tech in Electronics and Communication Engineering 📡 from Birla Institute of Technology, Mesra. 🏫 
 
 I am a Full Stack Web Developer & Competitive Programming enthusiast with good knowledge of Algorithms and Data Structures.💻 Open Source development fascinates me a lot.
 
