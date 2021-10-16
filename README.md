@@ -1,6 +1,7 @@
 # Amit Tiwary 😎
-[![Linkedin Badge](https://img.shields.io/badge/-AmitTiwary-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/akt114/)](https://www.linkedin.com/in/akt114/) 
-[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:amittiwary710@gmail.com)](mailto:amittiwary710@gmail.com)
+
+[![Linkedin Badge](https://img.shields.io/badge/-AmitTiwary-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/akt114/)]
+[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:amittiwary710@gmail.com)]
 ---
 ## Hi there 👋,           
 I'm Amit Tiwary, currently working as a Software Development Engineer @ Flipkart 👨‍🎓 I have completed my B.Tech in Electronics & Communication Engineering 📡 from Birla Institute of Technology, Mesra. 🏫 
