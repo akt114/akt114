@@ -1,5 +1,7 @@
 # Amit Tiwary 😎
-[![Linkedin Badge](https://img.shields.io/badge/-AmitTiwary-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/akt114/)](https://www.linkedin.com/in/akt114/) 
+
+[![Linkedin Badge](https://img.shields.io/badge/-AmitTiwary-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/akt114/)](https://www.linkedin.com/in/akt114/)
+[![Youtube Badge](https://img.shields.io/youtube/channel/subscribers/UC2IKdJIwWfGNO8v7NUqhewQ?label=CodeWithAKT&style=social&link=https://www.youtube.com/channel/UC2IKdJIwWfGNO8v7NUqhewQ)](https://www.youtube.com/channel/UC2IKdJIwWfGNO8v7NUqhewQ)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:amittiwary710@gmail.com)](mailto:amittiwary710@gmail.com)
 ---
 ## Hi there 👋,           
@@ -19,7 +21,7 @@ I am a Full Stack Web Developer & Competitive Programming enthusiast with good k
 ## 💥 Technical Skills
 - ✔  Data Structures & Algoritms
 - ✔  Object Oriented Programming
-- ✔  Languages :- C, C++, Javascript
+- ✔  Languages :- Java, C++, Javascript
 - ✔ Frameworks :- ReactJS, NodeJS , ExpressJS
 - ✔  Databases :- MongoDb , SQL
 - ✔  Tools :- Git , Postman
